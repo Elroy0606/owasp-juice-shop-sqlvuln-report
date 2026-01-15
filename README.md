@@ -50,7 +50,10 @@ resulting in authentication bypass.
 ## Steps to Reproduce (Proof of Concept)
 
 ### Step 1: Navigate to Login Page
-![Login Page](screenshots/01-login-page.png)
+<p align="center">
+	<img src="screenshots/02-login.png" alt="juice shop running" 
+	width="60%">
+</p>
 
 ### Step 2: Inject SQL Payload
 
