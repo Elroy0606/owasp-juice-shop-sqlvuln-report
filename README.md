@@ -67,3 +67,17 @@ Enter the following payload into the Email/Username field:
 	width="60%"
 </p>
 
+### Step 3: Enter any arbitrary string in the Password field (e.g: SomethingPassword1)
+### Step 4: Click Login
+### Step 5: Result: The Application processes the query, ignores the password check due to the comment operator (--), and authenticates the user as the admin@juice-sh.op
+<p align="center">
+	<img src="screenshots/03-SuccessfullInjection.png" alt="juice shop"
+	width="60%"
+</p>
+<p align="center">
+	<img src="screenshots/04-adminAccessConfirmation.png" alt="juice shop"
+	width="60%"
+</p>
+
+
+
