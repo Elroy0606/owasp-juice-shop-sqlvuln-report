@@ -61,3 +61,9 @@ Enter the following payload into the Email/Username field:
 
 ```sql
 ' OR 1=1--
+```
+<p align="center">
+	<img src="screenshots/05-SQLpayload.png" alt="juice shop"
+	width="60%"
+</p>
+
